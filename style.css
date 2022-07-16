@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  max-width: 500px;
+  width: 100%;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.day {
+  padding-top: 20px;
+  font-size: 80px;
+}
+
+.day-link {
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.page {
+  display: inline;
+  margin: 10px;
+  padding-bottom: 50px;
+}
